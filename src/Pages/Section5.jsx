@@ -3,7 +3,7 @@ import React from 'react'
 export default function Section5() {
   return (
     <>
-    <footer id='footer' className='w-full h-72 flex flex-col   text-center mt-40'>
+    <footer id='footer' className='w-full h-72 flex flex-col flex-wrap  text-center mt-40'>
         <p className='color'>Get in Touch</p>
         <h2 className='text-5xl mt-6 con'>CONTACT ME</h2>
         <div className='flex  flew-row  m-auto mt-20'>
