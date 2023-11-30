@@ -10,6 +10,11 @@ body {
   color:#ffffff;
   font-style: normal;
 }
+h2{
+  color: #f7f7f7 !important
+  ;
+}
+
 /* h2,h3,p{
   color: #0a0a0a !important;
 
@@ -43,6 +48,11 @@ body {
 }
 .line{
   line-height: 160px;
+}
+
+.z a{
+  display: flex;
+flex-direction: column;
 }
 .disable{
   display: none;

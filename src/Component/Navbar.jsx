@@ -10,7 +10,7 @@ setnav(!nav)
    
   return (
     <>
-        <nav className='flex '>
+        <nav className={`flex `}>
             <div className='w-full h-16 flex flex-row mt-6 flex-end'>
                 <Link id='up' to={'/'} className='ml-20  pt-2 text-3xl tnav'>Mohamad.dev</Link>
                 <div className='p-5 ml bg-white rounded-2xl mr-28' onClick={handlenav}>
@@ -21,10 +21,10 @@ setnav(!nav)
           
         </nav>
         <motion.div animate={{'y':-1000}}  whileInView={{'y':0}} transition={{'duration':0.7}} className={`h-full w-full z  text-center text-6xl line ${nav?'show':'disable'}` }>
-        <h3>PORTFOLIO</h3>
-        <h3>PROJECT</h3>
-        <h3>CONTACT</h3>
-        <h3>ABOUT</h3>
+        <Link to={'/'}>PORTFOLIO</Link>
+        <Link to={'/project'}>PROJECT  </Link>
+        <a href='#footer'>CONTACT  </a>
+        <Link to={'/about'}>ABOUT    </Link>
             </motion.div> 
     </>
   )

@@ -85,7 +85,7 @@ export default function Section4() {
 </div>
 <p className='color mt-10 ml-12'>Lorem ipsum dolor sit amet consectetur adipisicing elit.quod blanditiis eum? Dolorum odio enim fuga ut doloremque a consequatur.</p>
 <div className='flex'>
-  <img className='rounded w-20 mt-5' src="https://assets.website-files.com/64f800f7542bef04bb59898b/64f8204dac4d6ff1340020f5_jimmy-fermin-bqe0J0b26RQ-unsplash-p-500.jpg" alt="" />
+  <img className='rounded w-20 mt-5' src="https://assets.website-files.com/64f800f7542bef04bb59898b/64f8204d020b388c461b2b71_jonas-kakaroto-mjRwhvqEC0U-unsplash-p-500.jpg" alt="" />
   <h2 className='color text-3xl mt-10 ml-6'>Jack</h2>
 </div>
 </div>
@@ -99,7 +99,7 @@ export default function Section4() {
 </div>
 <p className='color mt-10 ml-12'>Lorem ipsum dolor sit amet consectetur adipisicing elit.quod blanditiis eum? Dolorum odio enim fuga ut doloremque a consequatur.</p>
 <div className='flex'>
-  <img className='rounded w-20 mt-5' src="https://assets.website-files.com/64f800f7542bef04bb59898b/64f8204dac4d6ff1340020f5_jimmy-fermin-bqe0J0b26RQ-unsplash-p-500.jpg" alt="" />
+  <img className='rounded w-20 mt-5' src="https://assets.website-files.com/64f800f7542bef04bb59898b/64f8204b08c35db400f3f5fb_rachel-mcdermott-0fN7Fxv1eWA-unsplash-p-500.jpg" alt="" />
   <h2 className='color text-3xl mt-10 ml-6'>Jack</h2>
 </div>
 </div>
@@ -113,7 +113,7 @@ export default function Section4() {
 </div>
 <p className='color mt-10 ml-12'>Lorem ipsum dolor sit amet consectetur adipisicing elit.quod blanditiis eum? Dolorum odio enim fuga ut doloremque a consequatur.</p>
 <div className='flex'>
-  <img className='rounded w-20 mt-5' src="https://assets.website-files.com/64f800f7542bef04bb59898b/64f8204dac4d6ff1340020f5_jimmy-fermin-bqe0J0b26RQ-unsplash-p-500.jpg" alt="" />
+  <img className='rounded w-20 mt-5' src="https://assets.website-files.com/64f800f7542bef04bb59898b/64f8204cae277a6a3bd33b3c_sergio-de-paula-c_GmwfHBDzk-unsplash-p-500.jpg" alt="" />
   <h2 className='color text-3xl mt-10 ml-6'>Jack</h2>
 </div>
 </div>
