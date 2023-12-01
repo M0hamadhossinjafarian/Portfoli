@@ -588,6 +588,54 @@ line-height: 135px;
 .carddd {
   margin-left: 3.2rem;
 }
+
+	.filter{
+  filter: blur(6px);
+}
+.icon-start{
+  position: absolute;
+  top: 46%;
+  left: 45%;
+  z-index: 10000;
+}
+.icon-stop {
+  position: absolute;
+  top: 91%;
+  left: 9%;
+  z-index: 10000;
+}
+.disablee{
+  display: none;
+}
+.showw{
+  display: flex;
+}
+.card-animation{
+  transition: all 22s !important;
+  transform: translateY(-2748px) !important;
+  transform-style: preserve-3d;
+  filter: blur(0px);
+
+}
+.card-animation2 {
+  transition: all 12s !important;
+  transform: translateY(0) !important;
+  transform-style: preserve-3d;
+  filter:blur(0px)
+}
+.he-c {
+  height: 500px;
+  margin-left: -10px;
+  width: 99%;
+}
+.carddd {
+  margin-left: 4.6rem;
+}
+.w {
+  width: 98%;
+}
+
+
 }
 .projects{
   margin-top: -500px;
