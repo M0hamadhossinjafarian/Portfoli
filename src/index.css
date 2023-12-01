@@ -373,7 +373,7 @@ right: -10%;
     margin-top: -25% !important;
   }
   .h2 {
-    height: 2300px!important;
+    height: 3400px!important;
 }
   
   .he {
@@ -386,7 +386,7 @@ right: -10%;
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 1024px) {
  .container{
-  display: none;
+  display: none !important;
  }
  .he{
   font-size: 25px !important;
@@ -550,7 +550,44 @@ line-height: 135px;
 .h {
   height: 1950px !important;
 }
+.copy-r{
+  margin-top: 283px;
+    position: absolute;
+    font-size: 0.75em;
+    left: 40%;
+}
+.f-1 {
+  margin: auto;
+  flex-wrap: nowrap;
+}
 
+.m{
+  margin-top: 0px;
+}
+.lef {
+  margin-left: 16% !important;
+  flex-wrap: wrap;
+}
+
+.w {
+  height: 350px;
+}
+.carddd {
+  margin-left: 4rem;}
+  .h23 {
+    height: 100px;
+    width: 100%;
+    margin-left: 5%;
+}
+.line {
+  line-height: 124px;
+}
+.z a{
+  font-size: 2.75rem;
+}
+.carddd {
+  margin-left: 3.2rem;
+}
 }
 .projects{
   margin-top: -500px;
@@ -598,7 +635,25 @@ font-size: 20px;
 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {}
+@media only screen and (max-width: 540px) {
+  .hw-1{
+    margin-left: 8px !important;
+  
+  }
+  .copy-r{
+    margin-top: 283px;
+      position: absolute;
+      font-size: 0.75em;
+      left: 4%;
+  }
+  .f-1{
+  margin-left: 66px;
+    flex-wrap: wrap;
+}
+.m{
+  margin-top: 20px;
+}
+}
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {}
@@ -699,7 +754,7 @@ body::-webkit-scrollbar-thumb {
 }
 .w img:hover {
   transition: all 20.7s;
-  transform: translateY(-1848px);
+  transform: translateY(-2748px);
   transform-style: preserve-3d;
 }
 .w img{
@@ -727,4 +782,29 @@ body::-webkit-scrollbar-thumb {
 100% {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
 }
+}
+.h2 {
+  height: 3293px;
+}
+.w{
+  height: 490px;
+}
+.h{
+  height: 1000px;
+}
+.container {
+  width: 1389px;
+  /* height: 598px; */
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.back #icon {
+  transform: rotate(180deg)!important;
+  margin-left: 399px !important;
+  margin-top: 14px;
+  position: absolute;
+}
+.desk{
+  margin-left: 148px;
 }
