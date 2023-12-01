@@ -213,7 +213,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold'>Next</h2>
-        <p>Experience</p>
+        <p>Basic</p>
         </div>
         </div>
 
@@ -271,7 +271,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold'>SCASS</h2>
-        <p>Experience</p>
+        <p>Intermediate</p>
         </div>
         </div>
         <div className='flex flex-col mt-40 -ml flex-w'>
@@ -279,7 +279,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold'>PWA</h2>
-        <p>Experience</p>
+        <p> Intermediate</p>
         </div>
         </div>
 
@@ -288,7 +288,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold w-max'>CHART JS</h2>
-        <p>Experience</p>
+        <p>Basic</p>
         </div>
         </div>
         <div className='flex flex-col mt-40 -ml flex-w'>
@@ -305,7 +305,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold w-max'>GIT,Github</h2>
-        <p>Experience</p>
+        <p>Basic</p>
         </div>
         </div>
 
@@ -323,7 +323,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold'>Gsap</h2>
-        <p>Experience</p>
+        <p>Intermediate </p>
         </div>
         </div>
 
@@ -341,7 +341,7 @@ Backend DEVELOPMENT
         <box-icon name='check-circle' color='#fffcfc' id='icon'></box-icon>
 
         <h2 className='text-lg font-semibold w-max'>Three js</h2>
-        <p>Experience</p>
+        <p>Basic</p>
         </div>
         </div>
         
